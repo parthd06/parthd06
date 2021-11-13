@@ -5,7 +5,7 @@
 ## 😃 About Me
 - 🔭 I’m currently working on Online Turf Booking Website
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
-- 👯 I’m looking to collaborate on React.js and Web Development
+- 👯 I’m looking to collaborate on **React.js and Web Development**
 - 📫 How to reach me **parthdali06@gmail.com** or Dm me on **<a href="https://twitter.com/DParthd06">Twitter</a>**
 
 
