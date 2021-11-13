@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on an Online Turf Booking Website Project
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
 - 👯 I’m looking to collaborate on **React.js and Web Development**
-- 📫 How to reach me **parthdali06@gmail.com** or Dm me on **<a href="https://twitter.com/DParthd06">Twitter</a>**
-
+- 📫 How to reach me **parthdali06@gmail.com**
+- 😄 Pronouns: He/Him
 
 
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
