@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **React.js and Web Development**
 - 📫 How to reach me **parthdali06@gmail.com**
 - 😄 Pronouns: He/Him
-
+- ⚡ Fun fact: I Believe in Space Colonization
 
 
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- ⚡ Fun fact: ...
+
 -->
