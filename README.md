@@ -14,12 +14,12 @@
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 
 <br>
-<hr\>
+<hr \>
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
   
-
+ -->
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
