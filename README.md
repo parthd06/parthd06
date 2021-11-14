@@ -20,5 +20,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
