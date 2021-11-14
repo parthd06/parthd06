@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Parth Dali</h1>
-#### Full-Stack Developer
 I am Parth from India, and I do Web Development. I really enjoy learning languages and frameworks like React and React Native. I am also learning about Neural networks in Tensorflow and participating in Robotics Competitions.
 <h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Interest in Deep Learning</h2>
 <!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/> -->
@@ -22,12 +21,4 @@ I am Parth from India, and I do Web Development. I really enjoy learning languag
  -->
  
 <h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parthd06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parth-dali-099a68182//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/parth_d_06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DParthd06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.parthportfolio.com)  
-
-<hr \>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthd06)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthd06&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=parthd06)  
 
