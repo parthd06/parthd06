@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on a **Turf Booking Website** 
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
 - 👯 I’m looking to collaborate on **Projects in Web Development**
+<!-- - 🙌Active in Communities: Robotics Team of my College -->
 - 📫 How to reach me **parthdali06@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
