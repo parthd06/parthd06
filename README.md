@@ -13,10 +13,6 @@
 
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
 <!--
-Here are some ideas to get you started:
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
-
 -->
