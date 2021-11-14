@@ -10,12 +10,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 <!-- - 🙌Active in Communities: Robotics Team of my College -->
-<br><br>
-
+<br>
 <hr \>
 
+## Checkout my Portfolio <a href="">here</a>
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
