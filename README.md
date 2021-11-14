@@ -16,3 +16,4 @@
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
 
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthd06)](https://github.com/anuraghazra/github-readme-stats)
