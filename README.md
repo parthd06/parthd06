@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Projects in Web Development**
 - 😄 Pronouns: He/Him
 <!-- - 👨‍💻 All of my projects are available at [awsaw22.com](awsaw22.com) -->
-<!-- - 🙌Active in Communities: Robotics Team of my College -->
+- 🙌Active in Communities: Robotics Team of my College
 - 📫 How to reach me **parthdali06@gmail.com**
 - 📄 Know about my experiences: **<a href="https://github.com/parthd06/parthd06/blob/main/Assets/MyResume.pdf">View Resume</a>**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
@@ -16,9 +16,4 @@
 <hr \>
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />
-  
- -->
 <!-- <h3 align="center">A passionate Web developer and Robotics Enthusiast</h3> -->
