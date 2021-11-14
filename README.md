@@ -10,7 +10,7 @@
 <!-- - 👨‍💻 All of my projects are available at [awsaw22.com](awsaw22.com) -->
 <!-- - 🙌Active in Communities: Robotics Team of my College -->
 - 📫 How to reach me **parthdali06@gmail.com**
-- 📄 Know about my experiences https://github.com/parthd06/parthd06/blob/main/Assets/MyResume.pdf
+- 📄 Know about my experiences: **<a href="https://github.com/parthd06/parthd06/blob/main/Assets/MyResume.pdf">View Resume</a>**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 
 <br>
