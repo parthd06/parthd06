@@ -40,7 +40,7 @@
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <hr \>
 
-### Languages I have worked with:
+## 📊 My Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthd06&show_icons=true&locale=en&layout=compact" alt="parthd06" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthd06&show_icons=true&locale=en" alt="parthd06" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthd06&" alt="parthd06" /></p>
