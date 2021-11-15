@@ -12,7 +12,7 @@
 - 📫 How to reach me **parthdali06@gmail.com**
 - 📄 Know about my experiences: **<a target="blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
-<hr \>
+
 
 
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/parth_d_06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/instagram.svg" alt="parth_d_06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthd06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/leet-code.svg" alt="parthd06" height="30" width="40" /></a>
 </p>
-<hr \>
+
 
 ## 📚 Languages and Tools
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
