@@ -23,7 +23,6 @@
 <a href="https://twitter.com/dparthd06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/twitter.svg" alt="dparthd06" height="30" width="40" /></a>
 <a href="https://instagram.com/parth_d_06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/instagram.svg" alt="parth_d_06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthd06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/leet-code.svg" alt="parthd06" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.parthportfolio.com)  
 </p>
 <hr \>
 
