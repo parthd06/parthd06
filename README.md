@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
 - 👯 I’m looking to collaborate on **Projects in Web Development**
 - 😄 Pronouns: He/Him
-<!-- - 👨‍💻 All of my projects are available at [awsaw22.com](awsaw22.com) -->
+<!-- - 👨‍💻 All of my projects are available at [www.parthprotfolio.com](www.parthprotfolio.com) -->
 - 🙌Active in Communities: **Robotics Team of my College**
 - 📫 How to reach me **parthdali06@gmail.com**
 - 📄 Know about my experiences: **<a target="blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
@@ -16,6 +16,7 @@
 
 
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
+<!-- <hr \> -->
 
 ## 🤗 Connect with me:
 <p align="left">
