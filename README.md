@@ -10,7 +10,7 @@
 <!-- - 👨‍💻 All of my projects are available at [awsaw22.com](awsaw22.com) -->
 - 🙌Active in Communities: Robotics Team of my College
 - 📫 How to reach me **parthdali06@gmail.com**
-- 📄 Know about my experiences: **<a target="_blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
+- 📄 Know about my experiences: **<a target="blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 <hr \>
 <!-- ## Checkout my Portfolio <a href="">here</a> -->
@@ -18,6 +18,8 @@
 
 <h3 align="left">🤗Connect with me:</h3>
 <p align="left">
+
+<a href="https://github.com/parthd06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/github.svg" alt="parthd06" height="30" width="40" /></a>
 <a href="https://twitter.com/dparthd06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dparthd06" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/parth-dali-099a68182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-dali" height="30" width="40" /></a>
 <a href="https://instagram.com/parth_d_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parth_d_06" height="30" width="40" /></a>
