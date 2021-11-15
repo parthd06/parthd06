@@ -24,6 +24,7 @@
 <a href="https://instagram.com/parth_d_06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/instagram.svg" alt="parth_d_06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthd06" target="blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/leet-code.svg" alt="parthd06" height="30" width="40" /></a>
 </p>
+<hr \>
 
 
 ## 📚 Languages and Tools
@@ -36,6 +37,7 @@
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<hr \>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthd06)](https://github.com/anuraghazra/github-readme-stats)
 
