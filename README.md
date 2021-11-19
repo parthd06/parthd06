@@ -9,7 +9,7 @@
 <!-- - 👨‍💻 All of my projects are available at [www.parthprotfolio.com](www.parthprotfolio.com) -->
 - 🙌Active in Communities: **Robotics Team of my College**
 - 📫 How to reach me **parthdali06@gmail.com**
-- 📄 Know about my experiences: **<a target="blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
+- 📄 Know about my experiences: **<a target="_blank" href="https://github.com/parthd06/parthd06/blob/main/Assets/Resume/MyResume.pdf">View Resume</a>**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 <hr \>
 
