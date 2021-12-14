@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
 - 👯 I’m looking to collaborate on **Projects in Web Development**
 - 😄 Pronouns: He/Him
-- 👨‍💻 All of my projects are available at [www.parthprotfolio.com](https://parthd06.github.io/)
+- 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
 - 🙌Active in Communities: **Robotics Team of my College**
 - 📫 How to reach me **parthdali06@gmail.com**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
