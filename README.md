@@ -2,7 +2,7 @@
 <h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Interest in Deep Learning</h2>
 
 ## 😃 About Me:
-- 🔭 I’m currently working on a **Turf Booking Website** 
+- 🔭 I’m currently doing a **Virtual Internship** 
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
 - 👯 I’m looking to collaborate on **Projects in Web Development**
 - 😄 Pronouns: He/Him
