@@ -1,6 +1,8 @@
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Parth Dali</h1>
 <h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Interest in Deep Learning</h2>
 
+![](https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/Banner.png?raw=true)
+
 ## 😃 About Me:
 - 🔭 I’m currently doing a **Virtual Internship** 
 - 🌱 I’m currently learning **TensorFlow and Convolutional Neural Networks**📸
