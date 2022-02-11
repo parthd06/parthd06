@@ -5,7 +5,7 @@
 ![](https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/Banner.png?raw=true)
 
 ## 😃 About Me:
-- 🔭 I’m currently doing a **Deep Learning Specialization on Coursera** 
+- 🔭 I’m currently doing a **ML Based Project** 
 - 🌱 I’m currently learning about **Neural Networks & Deep Learning**
 - 👯 I’m looking to collaborate on **Projects in Web Development**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
