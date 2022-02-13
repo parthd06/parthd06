@@ -4,6 +4,8 @@
 
 ![](https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/Banner.png?raw=true)
 
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 ## 😃 About Me:
 - 🔭 I’m currently doing a **ML Based Project** 
 - 🌱 I’m currently learning about **Neural Networks & Deep Learning**
@@ -12,11 +14,7 @@
 - 🙌 Active in Communities: **Robotics Team of my College**
 - 📫 How to reach me **parthdali06@gmail.com**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
-<hr \>
 
-
-<!-- ## Checkout my Portfolio <a href="">here</a> -->
-<!-- <hr \> -->
 
 ## 🤗 Connect with me:
 <p align="left">
