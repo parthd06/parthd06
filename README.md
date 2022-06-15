@@ -1,6 +1,6 @@
 ![](https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/Banner.png?raw=true)
 
-<h1 align="center">Hii there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm Parth Dali</h1>
+<h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm Parth Dali</h1>
 
 <h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Interest in Deep Learning</h2>
 
