@@ -8,10 +8,10 @@
 
 ## 😃 About Me:
 - 🔭 I’m currently doing a **ML Based Project** 
-- 🌱 I’m currently learning about **Neural Networks & Deep Learning**
-- 👯 I’m looking to collaborate on **Projects in Web Development**
+- 🌱 I’m currently learning about **Reinforcement Learning**
+- 👯 I’m looking to collaborate on **Projects in Web Development, Machine Learning & Data Science**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
-- 🙌 Active in Communities: **Robotics Team of my College**
+//- 🙌 Active in Communities: **Robotics Team of my College**//
 - 📫 How to reach me **parthdali06@gmail.com**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 
