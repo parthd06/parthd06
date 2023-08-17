@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning about **Reinforcement Learning**
 - 👯 I’m looking to collaborate on **Projects in Web Development, Machine Learning & Data Science**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
-- 📫 How to reach me **parthdali06@gmail.com**
+- 📫 How to reach me **pdali@iu.edu**
 - ⚡ Fun fact: I have a good collection of **Postal Stamps**🖼
 
 
