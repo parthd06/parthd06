@@ -7,8 +7,8 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 😃 About Me:
-- 🔭 I’m currently doing a **ML Based Project** 
-- 🌱 I’m currently learning about **Reinforcement Learning**
+- 🔭 I’m currently pursuing my Master's in Computer Science at **Indiana University Bloomington** 
+- 🌱 I’m currently learning and building my knowledge about **Machine Learning**
 - 👯 I’m looking to collaborate on **Projects in Web Development, Machine Learning & Data Science**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
 - 📫 How to reach me **pdali@iu.edu**
@@ -18,7 +18,7 @@
 ## 🤗 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/parthdali/" target="_blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/linked-in-alt.svg" alt="parth-dali" height="30" width="40" /></a>
-<a href="https://twitter.com/dparthd06" target="_blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/twitter.svg" alt="dparthd06" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/dparthd06" target="_blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/twitter.svg" alt="dparthd06" height="30" width="40" /></a> -->
 <a href="https://instagram.com/parth_d06" target="_blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/instagram.svg" alt="parth_d_06" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/parthd06" target="_blank"><img align="center" src="https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/leet-code.svg" alt="parthd06" height="30" width="40" /></a> -->
 </p>
