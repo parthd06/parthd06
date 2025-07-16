@@ -3,13 +3,13 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm Parth Dali</h1>
 
-<h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Interest in Deep Learning</h2>
+<h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Deep Learning</h2>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 😃 About Me:
 - 🔭 I'm an alumnus of **Indiana University Bloomington** 
-- 🌱 I’m currently learning and building my knowledge about **Machine Learning**
+- 🌱 I’m currently learning and building my knowledge about **Image Recognition**
 - 👯 I’m looking to collaborate on **Projects in Web Development, Machine Learning & Data Science**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
 - 📫 How to reach me **daliparth06@gmail.com**
