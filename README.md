@@ -1,4 +1,5 @@
-![](https://github.com/parthd06/parthd06/blob/main/Assets/Social_Icons/Banner.png?raw=true)
+![]()![banner](https://github.com/user-attachments/assets/fa40c40c-fa49-415e-bc42-bd3dfd590675)
+
 
 <h1 align="center">Hii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm Parth Dali</h1>
 
