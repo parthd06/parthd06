@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ## 😃 About Me:
-- 🔭 I’m a CS grad student at **Indiana University Bloomington** 
+- 🔭 I'm an alumnus of **Indiana University Bloomington** 
 - 🌱 I’m currently learning and building my knowledge about **Machine Learning**
 - 👯 I’m looking to collaborate on **Projects in Web Development, Machine Learning & Data Science**
 - 👨‍💻 All of my projects are available at [parthd06.github.io](https://parthd06.github.io/)
