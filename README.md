@@ -1,7 +1,7 @@
 ![]()![banner](https://github.com/user-attachments/assets/fa40c40c-fa49-415e-bc42-bd3dfd590675)
 
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm Parth Dali</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25">, I'm Parth</h1>
 
 <h2 align="center">👨‍💻 Exploring Tech | Robotics🤖 | Deep Learning</h2>
 
